@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Api", "SignalR.Api\SignalR.Api.csproj", "{534FEC08-7785-4A3C-A3DC-45CA7F43AB63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.WebUI", "SignalR.WebUI\SignalR.WebUI.csproj", "{2278C5C4-DD11-477B-9CAE-77729B18422F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{534FEC08-7785-4A3C-A3DC-45CA7F43AB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534FEC08-7785-4A3C-A3DC-45CA7F43AB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534FEC08-7785-4A3C-A3DC-45CA7F43AB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2278C5C4-DD11-477B-9CAE-77729B18422F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2278C5C4-DD11-477B-9CAE-77729B18422F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2278C5C4-DD11-477B-9CAE-77729B18422F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2278C5C4-DD11-477B-9CAE-77729B18422F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
