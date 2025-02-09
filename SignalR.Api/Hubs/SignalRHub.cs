@@ -27,5 +27,5 @@ namespace SignalR.Api.Hubs
             var value=_context.Customers.ToList();
             await Clients.All.SendAsync("ReceiveCustomerList",value);
         }
-    }
+    }   
 }
